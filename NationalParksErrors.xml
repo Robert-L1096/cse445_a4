@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Yosemite</Name>
+		<Phone>209-372-0200</Phone>
+		<Address>
+			<Number>9039</Number>
+			<Street>Village Dr</Street>
+			<City>Yosemite Valley</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Yellowstone</Name>
+		<Address NearestAirport="Bozeman">
+			<Number>2</Number>
+			<Street>Officers Row</Street>
+			<City>Yellowstone National Park</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Zion</Name>
+		<Phone>435-772-3256</Phone>
+		<Phone>435-772-3257</Phone>
+		<Address NearestAirport="St. George">
+			<Number>1</Number>
+			<Street>Zion Park Blvd</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zip>84767</Zip>
+		</NationalPark>
+
+	<NationalPark>
+		<Name>Glacier</Name>
+		<Name>Glacier National Park</Name>
+		<Phone>406-888-7800</Phone>
+		<Address NearestAirport="Kalispell">
+			<Number>64</Number>
+			<Street>Mather Drive</Street>
+			<City>West Glacier</City>
+			<State>MT</State>
+			<Zip>59936</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalPark>
