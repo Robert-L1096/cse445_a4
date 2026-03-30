@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
@@ -13,6 +13,19 @@
 			<Zip>86023</Zip>
 		</Address>
 	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Saguaro</Name>
+		<Phone>520-733-5153</Phone>
+		<Address NearestAirport="Phoenix">
+			<Number>3693</Number>
+			<Street>S Old Spanish Trail</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85730</Zip>
+		</Address>
+	</NationalPark>
+
 	<NationalPark Rating="4.8">
 		<Name>Yosemite</Name>
 		<Phone>209-372-0200</Phone>
